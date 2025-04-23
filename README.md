@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="logo.png" alt="AI Document Summarizer Logo" width="250"/>
+</p>
+
+<h1 align="center">AI Document Summarizer</h1>
+<p align="center">
+  🚀 Summarize any PDF using powerful LLaMA3 AI – modern UI, blazing fast summaries, neural precision.
+</p>
+
+---
 # AI-document-Summarizer
 Capable of Summarizing any pdf document with word limit of 500-700 words 
 
